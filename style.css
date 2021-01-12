@@ -22,7 +22,8 @@ body {
 
 .left-container {
     height: 100vh;
-    background-image: url(/images/life.jpg);
+    background-image: url(bm-ExpenseTracker.github.io/images/life.jpg
+);
     background-size: cover;
     background-position:left bottom ;
     position: relative;
