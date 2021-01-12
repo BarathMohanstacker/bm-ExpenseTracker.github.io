@@ -22,7 +22,8 @@ body {
 
 .left-container {
     height: 100vh;
-    background-image: url(/images/life.jpg);
+        background-image: linear-gradient(#0277BD, #03A9F4);
+
     background-size: cover;
     background-position:left bottom ;
     position: relative;
